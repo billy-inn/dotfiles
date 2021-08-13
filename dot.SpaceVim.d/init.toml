@@ -24,12 +24,12 @@
     enable_tabline_filetype_icon = true
     enable_statusline_mode = false
 
-    enable_ycm = 1
+    # enable_ycm = 1
 
     indk = "0{,0},0#0,!^F,o,O,e"
 
     bootstrap_before = "myspacevim#before"
-    bootstrap_after = "myspacevim#after"
+    # bootstrap_after = "myspacevim#after"
     
 # Enable autocomplete layer
 [[layers]]
